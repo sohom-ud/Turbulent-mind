@@ -1,6 +1,6 @@
-site_name: Obsidian Mkdocs
-site_description: A mkdocs wiki template for Obsidian
-site_url: https://mara-li.github.io/mkdocs_obsidian_template
+site_name: Turbulent mind
+site_description: Notes on turbulence research
+site_url: https://sohom-ud.github.io/Turbulent-mind
 
 theme:
     name: 'material'
